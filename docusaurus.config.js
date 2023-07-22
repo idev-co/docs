@@ -70,7 +70,7 @@ const config = {
         logo: {
           alt: 'iDev & Co logo',
           src: 'img/logowhite.svg',
-          srcDark: 'img/logoblack.svg',
+          srcDark: 'img/logodark.svg',
         },
         items: [
           {
