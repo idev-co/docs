@@ -1,6 +1,6 @@
 # iDev & Co Documentation
 
-![iDev & Co Logo](link-to-your-logo.png)
+![iDev & Co Logo](https://imgur.com/a/rhe8Ga1)
 
 Welcome to the official documentation for iDev & Co, a group of skilled developers specializing in creating top-notch scripts for FiveM. Our team is committed to delivering both free and paid scripts that boast outstanding code quality and optimal performance.
 
