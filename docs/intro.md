@@ -1,47 +1,36 @@
----
-sidebar_position: 1
----
+# iDev & Co Documentation
 
-# Tutorial Intro
+![iDev & Co Logo](link-to-your-logo.png)
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to the official documentation for iDev & Co, a group of skilled developers specializing in creating top-notch scripts for FiveM. Our team is committed to delivering both free and paid scripts that boast outstanding code quality and optimal performance.
 
-## Getting Started
+## Team Members
 
-Get started by **creating a new site**.
+### 1. Space V
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
 
-### What you'll need
+Space V is a highly talented Lua developer with a passion for crafting innovative solutions. With extensive experience in FiveM scripting, Space V consistently delivers cutting-edge scripts that enhance gameplay and server functionality.
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+### 2. Sinyx
 
-## Generate a new site
 
-Generate a new Docusaurus site using the **classic template**.
+Sinyx is an accomplished developer with expertise in NUI and Lua scripting for FiveM. His dedication to excellence is evident in every project they undertake, making them a valuable asset to the iDev & Co team.
 
-The classic template will automatically be added to your project after you run the command:
+Sinyx also owns his own script shop called S1nScripts, where they offer a wide range of high-quality scripts for the FiveM community.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+- S1nScripts Discord: [S1nScripts Official Server](https://discord.gg/7WBxxuXAcys)
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+## Our Mission
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+At iDev & Co, we strive to provide the FiveM community with scripts that set new standards for quality and performance. Our mission is to enhance the overall gaming experience by offering feature-rich, bug-free, and optimized scripts that cater to various server needs.
 
-## Start your site
+## Contact Us
 
-Run the development server:
+If you have any inquiries, suggestions, or feedback, feel free to get in touch with us through the following channels:
 
-```bash
-cd my-website
-npm run start
-```
+- Email: contact@idevandco.com
+- Discord: [iDev & Co Official Server](https://discord.gg/nsyaGNt6jM)
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+Thank you for choosing iDev & Co. We hope our work brings joy and functionality to your FiveM server!
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+> Note: This documentation is subject to updates and improvements as we continue to refine our scripts and incorporate community feedback. Make sure to stay tuned for the latest version!
